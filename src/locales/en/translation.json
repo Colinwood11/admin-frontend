@@ -125,7 +125,6 @@
   "WAF": "Web application firewall",
   "SiteName": "Site name",
   "DashboardOriginalHost": "Dashboard Server Domain/IP without CDN",
-  "Auto": "Automatic",
   "LoginFailed": "Login failed",
   "BruteForceAttackingToken": "Brute Force Attacking Token",
   "BruteForceAttackingAgentSecret": "Brute Force Attacking Agent Secret",
